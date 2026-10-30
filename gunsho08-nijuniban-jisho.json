@@ -4,7 +4,12 @@
  "repo": "kumoi-no-fumigura/nijuniban-jisho-utaawase",
  "yomi": "にじゅうにばんうたあわせ",
  "category": "歌合",
- "description": null,
+ "description": {
+  "kind": "歌合（二十二番）",
+  "era": "治承2年（1178）8月",
+  "author": "未詳",
+  "desc": "二十二番の歌合。閑庭秋来などの題で、頼輔・有房・顕昭らが詠み、詳しい判詞が付く。"
+ },
  "editions": [
   {
    "pid": "1879502",
